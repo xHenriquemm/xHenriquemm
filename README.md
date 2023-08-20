@@ -1,5 +1,5 @@
 
-**👋 Olá, eu sou Henrique!
+👋 Olá, eu sou Henrique!
 
 🌟 Apaixonado por programação e sempre curioso para explorar novas tecnologias. Minha jornada começou com Python e JavaScript, onde estou aprendendo a criar soluções incríveis para problemas do mundo real.
 
